@@ -1,26 +1,46 @@
 ## Welcome to my GitHub Page!  
 
-Hi, I'm Mingchuan Xu, a master student at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics, currently happy to work with my supervisior Prof. Dmitry Vetrov, research professor in CS HSE, head of Bayes Research Group in Russia. My major is Pattern Recognition, machine learning, data science. I'm interested in topics of Applied Mathemathics, Optimization, ML/DL, Fluent in Russian/English ( and mandarin :) ).  
+Hi, I'm Mingchuan Xu, a master student at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics, currently happy to work with my supervisior prof. Dmitry Vetrov, research professor in CS HSE, head of Bayes Research Group in Russia. My major is Pattern Recognition, machine learning, data science. I'm interested in topics of Applied Mathemathics, Optimization, ML/DL, Fluent in Russian/English ( and mandarin :) ).  
 
 Link to my CV.
 
 ## Education
 > ### Moscow State University  
-> Master of Applied Mathematics and Informatics, Sep 2021 - Jun 2023  
-> - Department of Mathemathical Methods of Pattern Recognition  
+> Sep 2021 - Jun 2023  
+> Master of Applied Mathematics and Informatics  
+> - Department of Mathematical Methods of Pattern Recognition  
 > - Main courses: DL, Data Analysis, RL, NLP...
 
-> ### Moscow State University, Shenzhen MSU‐BIT University
-> Bachelor of Applied Mathematics and Informatics, Sep 2017 - Jun 2021  
-> - Joint University by MSU and BIT and Shenzhen government  
-> - got "Diploma with Honors"  
+> ### Shenzhen MSU‐BIT University (Joint University)
+> Sep 2017 - Jun 2021  
+> Bachelor of Applied Mathematics and Informatics  
+> - Joint University by MSU, BIT and Shenzhen government  
 > - Overall GPA: 3.9/4.0  
-
-
 
 ## Experience  
 
+> ### Bayesian Methods Research Group  
+> Sep 2021 - June 2023, Advisor: prof. Dmitry Vetrov  
+> - Working on a project of forcasting ENSO using Deep Learning methods
+
+> ### Shenzhen MSU-BIT University, 
+> Oct 2020 - June 2021, Advisor: associate prof. [Boris Budak](https://www.smbu.edu.cn/info/1342/4408.htm)  
+> Worked on the construction of regularization method in equilibrium problem.
+> Successfully defended bachelor’s thesis.
+
+
+> ### Shenzhen MSU-BIT University, Research Assistant
+> Sep 2019 - Mar 2021, Advisor: prof. [Ye Zhang](https://www.smbu.edu.cn/info/1084/2949.htm)
+> - Worked on numerical verification of algorithms for inverse problems.  
+> - Studied russian literature of inverse problems, did translation and editing work in LaTeX.  
+
+
 ## Publications
+
+> ### Regularization algorithms for unstable equilibrium problem (in Russian)
+> Mingchuan Xu, Boris Budak
+> _Вестник Московского университета. Серия 15: Вычислительная математика и кибернетика_  
+> _meet in public soon_
 
 ## Awards
 
