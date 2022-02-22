@@ -5,15 +5,15 @@ Hi, I'm Mingchuan Xu, a master student at Lomonosov Moscow State University, Fac
 Link to my CV.
 
 ## Education
-> ## Moscow State University
-> Master of Applied Mathematics and Informatics, Sep 2021 - Jun 2023
-> - Department of Mathemathical Methods of Pattern Recognition
+> ### Moscow State University  
+> Master of Applied Mathematics and Informatics, Sep 2021 - Jun 2023  
+> - Department of Mathemathical Methods of Pattern Recognition  
 > - Main courses: DL, Data Analysis, RL, NLP...
 
-> ## Moscow State University, Shenzhen MSU‐BIT University
+> ### Moscow State University, Shenzhen MSU‐BIT University
 > Bachelor of Applied Mathematics and Informatics, Sep 2017 - Jun 2021  
-> - Joint University by MSU and BIT and Shenzhen government
-> - got "Diploma with Honors"
+> - Joint University by MSU and BIT and Shenzhen government  
+> - got "Diploma with Honors"  
 > - Overall GPA: 3.9/4.0  
 
 
