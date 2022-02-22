@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages  
 
-## Hi, I'm Mingchuan Xu
+### Hi, I'm Mingchuan Xu
 
 ### Markdown
 
