@@ -10,9 +10,10 @@ Link to my CV.
 > - Department of Mathemathical Methods of Pattern Recognition
 > - Main courses: DL, Data Analysis, RL, NLP...
 
-> ## Moscow State University, Shenzhen MSU‐BIT University (Joint University)
+> ## Moscow State University, Shenzhen MSU‐BIT University
 > Bachelor of Applied Mathematics and Informatics, Sep 2017 - Jun 2021  
-> - Joint University by MSU and BIT
+> - Joint University by MSU and BIT and Shenzhen government
+> - got "Diploma with Honors"
 > - Overall GPA: 3.9/4.0  
 
 
