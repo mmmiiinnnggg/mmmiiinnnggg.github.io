@@ -23,15 +23,14 @@ Link to my CV.
 
 > ### Bayesian Methods Research Group  
 > Sep 2021 - June 2023, advisor: prof. [Dmitry Vetrov](https://bayesgroup.ru/people/dmitry-vetrov/)  
-> - Working on a project of forcasting ENSO using Deep Learning methods
+> - Working on a project of forcasting ENSO using Deep Learning methods.
 
-> ### Shenzhen MSU-BIT University, 
+> ### Shenzhen MSU-BIT University. Nuermical Optimization Research Group 
 > Oct 2020 - June 2021, advisor: associate prof. [Boris Budak](https://www.smbu.edu.cn/info/1342/4408.htm)  
-> Worked on the construction of regularization method in equilibrium problem.
-> Successfully defended bachelor’s thesis.
+> Worked on the construction of regularization methods in equilibrium problem.
+> Successfully defended bachelor’s thesis (which will be published).  
 
-
-> ### Shenzhen MSU-BIT University, Research Assistant
+> ### Shenzhen MSU-BIT University. Research Assistant
 > Sep 2019 - Mar 2021, advisor: prof. [Ye Zhang](https://www.smbu.edu.cn/info/1084/2949.htm)
 > - Worked on numerical verification of algorithms for inverse problems.  
 > - Studied russian literature of inverse problems, did translation and editing work in LaTeX.  
@@ -43,7 +42,7 @@ Link to my CV.
 > Mingchuan Xu, Boris Budak  
 > _Вестник Московского университета. Серия 15: Вычислительная математика и кибернетика_  
 > _will be met in public soon_
-> The summary of main results in English: URL
+> The main results in English: URL
 
 ## Awards 
 
@@ -53,7 +52,7 @@ Link to my CV.
 
 > ### Student representative spokesman for the commencement ceremony
 > Jun 2021
-> - Honored to have a speech representing class-of-2017 in the commencement ceremony  
+> - Honored to have a speech representing class-of-2017 in the commencement ceremony.  
 
 > ### "SMBU-star" Scholarship Award
 > Jun 2021  
@@ -64,12 +63,13 @@ Link to my CV.
 > - 508 people become finalist out of 50,000+ competitors of Famous Universities across the world.  
 > - Nearly half of the finalists come from the department of mathematics, Peking University.  
 
-> ### The Chinese Mathematics Competitons  
+> ### The Chinese Mathematics Competition
 > Nov 2020, second-class prize
+> - Nation-wide offical mathematics competition.
 
 > ### American Mathematical Contest in Modeling  
 > Mar 2020, Meritorious Winner, advisor: prof. [Ye Zhang](https://www.smbu.edu.cn/info/1084/2949.htm)
-> - Team leader, mainly responsible for semantic analysis of commodity comments with NLP and its Matlab implementation, multivariate linear regression analysis of success factors of hot‐selling goods, and paper writing in LaTeX
+> - Team leader, mainly responsible for semantic analysis of commodity comments with NLP and its Matlab implementation, multivariate linear regression analysis of success factors of hot‐selling goods, and paper writing in LaTeX.  
 
 > ### Chinese Contemporary Undergraduate Mathematical Contest in Modeling  
 > Sep 2019, second-class prize
@@ -78,7 +78,7 @@ Link to my CV.
 > ### SMBU Academic Scholarship
 > Sep 2017 - Jan 2021  
 > - Awarded to the best 10% students in one semester with excellent academic performance.  
-> - Granted 6 times in 8 semesters  
+> - Granted 6 times in 8 semesters.  
 
 ## Skills
 * **Languages：** English(fluent, CET-6:605), Chinese(Native), Russian(fluent)  
