@@ -8,11 +8,12 @@ Link to my CV.
 > ## Moscow State University
 > Master of Applied Mathematics and Informatics, Sep 2021 - Jun 2023
 > - Department of Mathemathical Methods of Pattern Recognition
-> 
+> - Main courses: DL, Data Analysis, RL, NLP...
 
 > ## Moscow State University, Shenzhen MSU‐BIT University (Joint University)
-> Bachelor of Applied Mathematics and Informatics, Sep 2017 - Jun 2021
-> GPA: 3.9/4.0  
+> Bachelor of Applied Mathematics and Informatics, Sep 2017 - Jun 2021  
+> - Joint University by MSU and BIT
+> - Overall GPA: 3.9/4.0  
 
 
 
