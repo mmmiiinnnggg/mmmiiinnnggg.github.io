@@ -10,7 +10,7 @@ Link to my CV.
 > Sep 2021 - Jun 2023  
 > Master of Applied Mathematics and Informatics  
 > - Department of Mathematical Methods of Pattern Recognition  
-> - Main courses: DL, Data Analysis, RL, NLP...
+> - Main courses: DL, Data Analysis, Optimization Methods, Bayesian Methods, RL, NLP, Speech Recognition...
 
 > ### Shenzhen MSU‐BIT University (Joint University)
 > Sep 2017 - Jun 2021  
@@ -23,12 +23,12 @@ Link to my CV.
 
 > ### Bayesian Methods Research Group  
 > Sep 2021 - June 2023, advisor: prof. [Dmitry Vetrov](https://bayesgroup.ru/people/dmitry-vetrov/)  
-> - Working on a project of forcasting ENSO using Deep Learning methods.
+> - Working on a project of forcasting ENSO using deep neural networks.
 
 > ### Shenzhen MSU-BIT University. Numerical Optimization Research Group 
 > Oct 2020 - June 2021, advisor: associate prof. [Boris Budak](https://www.smbu.edu.cn/info/1342/4408.htm)  
-> Worked on the construction of regularization methods in equilibrium problem.
-> Successfully defended bachelor’s thesis (which will be published).  
+> - Worked on the construction of regularization methods in equilibrium problem.
+> - Successfully defended bachelor’s thesis (which will be published).  
 
 > ### Shenzhen MSU-BIT University. Research Assistant
 > Sep 2019 - Mar 2021, advisor: prof. [Ye Zhang](https://www.smbu.edu.cn/info/1084/2949.htm)
