@@ -4,7 +4,7 @@ Hi, I'm Mingchuan Xu, a master student at Lomonosov Moscow State University, Fac
 
 Link to my CV.
 
-### Education
+## Education
 > ## Moscow State University
 > Master of Applied Mathematics and Informatics, Sep 2021 - Jun 2023
 > - Department of Mathemathical Methods of Pattern Recognition
@@ -18,13 +18,13 @@ Link to my CV.
 
 
 
-### Experience  
+## Experience  
 
-### Publications
+## Publications
 
-### Awards
+## Awards
 
-### Skills
+## Skills
 
 ```markdown
 Syntax highlighted code block
