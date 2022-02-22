@@ -1,10 +1,28 @@
-## Welcome to GitHub Pages  
+## Welcome to my GitHub Page!  
 
-### Hi, I'm Mingchuan Xu
+Hi, I'm Mingchuan Xu, a master student at Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics, currently happy to work with my supervisior Prof. Dmitry Vetrov, research professor in CS HSE, head of Bayes Research Group in Russia. My major is Pattern Recognition, machine learning, data science. I'm interested in topics of Applied Mathemathics, Optimization, ML/DL, Fluent in Russian/English ( and mandarin :) ).  
 
-### Markdown
+Link to my CV.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+> ## Moscow State University
+> Master of Applied Mathematics and Informatics, Sep 2021 - Jun 2023
+> - Department of Mathemathical Methods of Pattern Recognition
+> 
+
+> ## Moscow State University, Shenzhen MSU‐BIT University (Joint University)
+> Bachelor of Applied Mathematics and Informatics, Sep 2017 - Jun 2021
+> GPA: 3.9/4.0  
+
+
+
+### Experience  
+
+### Publications
+
+### Awards
+
+### Skills
 
 ```markdown
 Syntax highlighted code block
@@ -23,13 +41,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmmiiinnnggg/mmmiiinnnggg.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
