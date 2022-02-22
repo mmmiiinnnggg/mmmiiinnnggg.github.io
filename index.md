@@ -47,17 +47,17 @@ Link to my CV.
 
 ## Awards 
 
+> ### Chinese Government Scholarship
+> Dec 2021  
+> Granted to talented young students to support their studies in Russia.
+
 > ### Student representative spokesman for the commencement ceremony
 > Jun 2021
+> - Honored to have a speech representing class-of-2017 in the commencement ceremony  
 
 > ### "SMBU-star" Scholarship Award
 > Jun 2021  
-> - Award the student with excellent overall academic performance in bacholar time  
-
-> ### SMBU Academic Scholarship
-> Sep 2017 - Jan 2021  
-> - Award the student for best 10% academic performance of 1 semester in faculty  
-> - got 6 times in 8 semesters  
+> - Awarded to the student with excellent overall academic performance in bacholar time.   
 
 > ### Alibaba Global Mathematics Competition  
 > May 2021, finalist
@@ -75,7 +75,17 @@ Link to my CV.
 > Sep 2019, second-class prize
 > - Team leader, mainly responsible for construction of models describing physical dynamics of waving drums, and paper writing.  
 
+> ### SMBU Academic Scholarship
+> Sep 2017 - Jan 2021  
+> - Awarded to the best 10% students in one semester with excellent academic performance.  
+> - Granted 6 times in 8 semesters  
+
 ## Skills
 **Languages：** English(fluent, CET-6:605), Chinese(Native), Russian(fluent)
 **Technical skills：** Python, C/C++, LaTeX, Git
+
+## Others :)
+> Worked as head of Department of Studies in Students' Union
+> Assistant of Russian intensive course for the freshmen
+> 2-nd place in campus badminton competition (men's single)
 
