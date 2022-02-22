@@ -21,6 +21,10 @@ Link to my CV.
 
 ## Experience  
 
+> ### Huawei Moscow Research, HiSilicon Team  
+> Apr 2022 -  
+> - Research Intern
+
 > ### Bayesian Methods Research Group  
 > Sep 2021 - June 2023, advisor: prof. [Dmitry Vetrov](https://bayesgroup.ru/people/dmitry-vetrov/)  
 > - Working on a project of forcasting ENSO using deep neural networks.
