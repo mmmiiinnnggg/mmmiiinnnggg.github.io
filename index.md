@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page!  
 
-Hi, I'm Mingchuan Xu, a master student at [Lomonosov Moscow State University](https://www.msu.ru/en/), [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en), currently happy to work with my supervisior prof. [Dmitry Vetrov](https://bayesgroup.ru/people/dmitry-vetrov/) , research professor in [HSE](https://www.hse.ru/en/), head of [Bayesian Methods Research Group](https://bayesgroup.ru/) . My major is pattern recognition, machine learning, data science. I'm interested in topics of Applied Mathemathics, Optimization, ML/DL, Fluent in Russian/English (and mandarin :) ).  
+Hi, I'm Mingchuan Xu, a master student at [Lomonosov Moscow State University](https://www.msu.ru/en/), [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en), currently working with my supervisior prof. [Dmitry Vetrov](https://bayesgroup.ru/people/dmitry-vetrov/) , research professor in [HSE](https://www.hse.ru/en/), head of [Bayesian Methods Research Group](https://bayesgroup.ru/) . My major is pattern recognition, machine learning, data science. I'm interested in topics of Applied Mathemathics, Optimization, ML/DL, Fluent in Russian/English (and mandarin :) ).  
 
 Link to my CV.
 
