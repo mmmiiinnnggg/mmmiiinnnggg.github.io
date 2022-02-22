@@ -88,4 +88,6 @@ Link to my CV.
 * Worked as head of Department of Studies in Students' Union  
 * Assistant of Russian intensive course for the freshmen  
 * 2-nd place in campus badminton competition (men's single)
+* Sports Fans (snooker, basketball and so on)
+* Be in a relationship with my princess for 3+ years )))
 
