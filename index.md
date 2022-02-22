@@ -81,11 +81,11 @@ Link to my CV.
 > - Granted 6 times in 8 semesters  
 
 ## Skills
-**Languages：** English(fluent, CET-6:605), Chinese(Native), Russian(fluent)  
-**Technical skills：** Python, C/C++, LaTeX, Git  
+* **Languages：** English(fluent, CET-6:605), Chinese(Native), Russian(fluent)  
+* **Technical skills：** Python, C/C++, LaTeX, Git  
 
 ## Others :)
-> Worked as head of Department of Studies in Students' Union  
-> Assistant of Russian intensive course for the freshmen  
-> 2-nd place in campus badminton competition (men's single)
+* Worked as head of Department of Studies in Students' Union  
+* Assistant of Russian intensive course for the freshmen  
+* 2-nd place in campus badminton competition (men's single)
 
