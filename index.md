@@ -25,7 +25,7 @@ Link to my CV.
 > Sep 2021 - June 2023, advisor: prof. [Dmitry Vetrov](https://bayesgroup.ru/people/dmitry-vetrov/)  
 > - Working on a project of forcasting ENSO using Deep Learning methods.
 
-> ### Shenzhen MSU-BIT University. Nuermical Optimization Research Group 
+> ### Shenzhen MSU-BIT University. Numerical Optimization Research Group 
 > Oct 2020 - June 2021, advisor: associate prof. [Boris Budak](https://www.smbu.edu.cn/info/1342/4408.htm)  
 > Worked on the construction of regularization methods in equilibrium problem.
 > Successfully defended bachelor’s thesis (which will be published).  
@@ -41,7 +41,7 @@ Link to my CV.
 > ### Regularization algorithms for unstable equilibrium problem (in Russian)  
 > Mingchuan Xu, Boris Budak  
 > _Вестник Московского университета. Серия 15: Вычислительная математика и кибернетика_  
-> _will be met in public soon_
+> _will be met in public soon_  
 > The main results in English: URL
 
 ## Awards 
