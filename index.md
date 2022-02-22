@@ -48,7 +48,7 @@ Link to my CV.
 
 > ### Chinese Government Scholarship
 > Dec 2021  
-> Granted to talented young students to support their studies in Russia.
+> - Granted to talented young students to support their studies in Russia.
 
 > ### Student representative spokesman for the commencement ceremony
 > Jun 2021
