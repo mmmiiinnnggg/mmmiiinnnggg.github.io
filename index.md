@@ -77,7 +77,8 @@ Link to my CV.
 
 > ### Chinese Contemporary Undergraduate Mathematical Contest in Modeling  
 > Sep 2019, second-class prize
-> - Team leader, mainly responsible for construction of models describing physical dynamics of waving drums, and paper writing.  [The submitted solution paper](https://github.com/mmmiiinnnggg/2020-MCM-and-2019-CUMCM/blob/master/2019%20CUMCM/%E2%80%9C%E5%90%8C%E5%BF%83%E5%8D%8F%E5%8A%9B%E2%80%9D%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6.pdf)  
+> - Team leader, mainly responsible for construction of models describing physical dynamics of waving drums, and paper writing.
+> - [The submitted solution paper](https://github.com/mmmiiinnnggg/2020-MCM-and-2019-CUMCM/blob/master/2019%20CUMCM/%E2%80%9C%E5%90%8C%E5%BF%83%E5%8D%8F%E5%8A%9B%E2%80%9D%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6.pdf)  
 
 > ### SMBU Academic Scholarship
 > Sep 2017 - Jan 2021  
