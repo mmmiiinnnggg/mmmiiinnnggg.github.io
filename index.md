@@ -32,7 +32,7 @@ Link to my CV.
 > ### Shenzhen MSU-BIT University. Numerical Optimization Research Group 
 > Oct 2020 - June 2021, advisor: associate prof. [Boris Budak](https://www.smbu.edu.cn/info/1342/4408.htm)  
 > - Worked on the construction of regularization methods in equilibrium problem.
-> - Successfully defended bachelor’s thesis (which will be published).  
+> - Successfully defended bachelor’s thesis (which will be published). ([Results in English](https://github.com/mmmiiinnnggg/Bag-of-LaTeX-Treasures/blob/master/PDF/diploma_work_result.pdf))
 
 > ### Shenzhen MSU-BIT University. Research Assistant
 > Sep 2019 - Mar 2021, advisor: prof. [Ye Zhang](https://www.smbu.edu.cn/info/1084/2949.htm)
@@ -46,7 +46,7 @@ Link to my CV.
 > Mingchuan Xu, Boris Budak  
 > _Вестник Московского университета. Серия 15: Вычислительная математика и кибернетика_  
 > _will be met in public soon_  
-> The main results in English: URL
+> The main results [in English](https://github.com/mmmiiinnnggg/Bag-of-LaTeX-Treasures/blob/master/PDF/diploma_work_result.pdf)
 
 ## Awards 
 
