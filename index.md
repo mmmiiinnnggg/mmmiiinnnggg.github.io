@@ -10,7 +10,7 @@ Link to my CV.
 > Sep 2021 - Jun 2023  
 > Master of Applied Mathematics and Informatics  
 > - Department of Mathematical Methods of Pattern Recognition  
-> - Main courses: DL, Data Analysis, Optimization Methods, Bayesian Methods, RL, NLP, Speech Recognition...
+> - Main courses: ML, DL, Data Analysis, Optimization Methods, Bayesian Methods, RL, NLP, Speech Recognition...
 
 > ### Shenzhen MSU‐BIT University (Joint University)
 > Sep 2017 - Jun 2021  
